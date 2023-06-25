@@ -1,0 +1,35 @@
+* ACCUEIL
+home__social
+https://www.linkedin.com/in/dana%C3%A9-albrechtmartin/
+https://github.com/dalbrechtmartin
+
+home__description
+Développeuse Junior, artiste digitale et écrivaine avec une grande curiosité souhaitant apprendre toujours plus de nouvelles choses.
+
+
+* À PROPOS
+about__description
+Développeuse Junior, artiste digitale, mais également écrivaine à ses heures perdues.
+
+about__info-name
+Années <br> d'expérience informatique
+Entreprises <br> intégrées
+
+
+* COMPÉTENCES
+services__modal-service
+Je développe des applications.
+Je fais des dessins (numériques) et du design.
+J'écrit un livre pendant mon temps libre.
+
+
+* PORTFOLIO
+portfolio__description
+Mon site s'adapte à toutes les résolutions d'écrans avec des composants UI et différentes animations.
+
+
+* FOOTER
+footer__social
+https://www.instagram.com/
+
+
