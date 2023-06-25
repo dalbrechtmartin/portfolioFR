@@ -2,12 +2,14 @@
 
 <!-- PROJECT SHIELDS -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="danaé-albrecht-martin-541a02244" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/dana%C3%A9-albrecht-martin-541a02244?trk=profile-badge">Danaé ALBRECHT--MARTIN</a></div>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="danaé-albrecht-martin-541a02244" data-version="v1">Danaé ALBRECHT--MARTIN</div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">🇫🇷 Portfolio 🇫🇷<br>Version Française </h3>
+<h3 align="center">  Portfolio  <br> Version Française </h3>
+<br>
+<a align="center" href="https://dalbrechtmartin.github.io/portfolioFR/">Voir le Portfolio</a>
 </div>
 
 <br>
@@ -16,10 +18,15 @@
 ## À propos
 EN COURS...
 
+<br>
+
+**!!! VERSION ANGLAISE NON DISPONIBLE POUR LE MOMENT !!!**
+
+~~Si vous souhaitez voir la version anglaise, merci de vous rendre sur ce dépôt : <a align="center" href="https://dalbrechtmartin.github.io/portfolioFR/">Version EN</a>~~
+
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 <br>
-<p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
 
 ### Languages
 <br>
@@ -31,7 +38,6 @@ EN COURS...
 </div>
 
 <br>
-<p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
