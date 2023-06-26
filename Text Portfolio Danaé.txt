@@ -1,10 +1,11 @@
 * ACCUEIL
 home__social
 https://www.linkedin.com/in/dana%C3%A9-albrechtmartin/
+https://www.instagram.com/Inkumie/
 https://github.com/dalbrechtmartin
 
 home__description
-Développeuse Junior, artiste digitale et écrivaine avec une grande curiosité souhaitant apprendre toujours plus de nouvelles choses.
+Principalement développeuse d'applications, mais également artiste sur tablette graphique et écrivaine à ses heures perdues ; avec une grande curiosité et l'envie d'apprendre toujours plus de nouvelles choses !
 
 
 * À PROPOS
