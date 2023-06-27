@@ -325,6 +325,32 @@ img {
   font-size: 1.25rem;
 }
 
+/*==================== TYPED TEXT & CURSOR ====================*/
+
+.typed__text {
+  color: var(--first-color);
+}
+
+.cursor {
+  display: inline-block;
+  background-color: var(--first-color-alt);
+  margin-left: 0.1rem;
+  width: 3px;
+  animation: blink 1s infinite;
+}
+
+.typing {
+  animation: none;
+}
+
+@keyframes blink {
+  0%  { background-color: var(--first-color-alt); }
+  49% { background-color: var(--first-color-alt); }
+  50% { background-color: transparent; }
+  99% { background-color: transparent; }
+  100%  { background-color: var(--first-color-alt); }
+}
+
 /*==================== BUTTONS ====================*/
 .button{
   display: inline-block;
