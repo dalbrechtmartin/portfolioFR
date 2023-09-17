@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.206d4d38.js",
+    "main.css": "./static/css/main.056634b1.css",
+    "main.js": "./static/js/main.f1d1db6f.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tripguide.png": "./static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "./static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "./static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "./static/media/jobit.755da7149642fd049273.png",
+    "static/media/web.png": "./static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "./static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "./static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "./static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "./static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "./static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/close.svg": "./static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/menu.svg": "./static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
+    "static/media/threejs.svg": "./static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
     "index.html": "./index.html",
-    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.206d4d38.js.map": "./static/js/main.206d4d38.js.map",
+    "main.056634b1.css.map": "./static/css/main.056634b1.css.map",
+    "main.f1d1db6f.js.map": "./static/js/main.f1d1db6f.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.206d4d38.js"
+    "static/css/main.056634b1.css",
+    "static/js/main.f1d1db6f.js"
   ]
 }
