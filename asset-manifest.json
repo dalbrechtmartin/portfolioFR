@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dalbrechtmartin/portfolioFR/tree/gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/dalbrechtmartin/portfolioFR/tree/gh-pages/static/js/main.a7d1e226.js",
-    "static/js/787.1ed0c42c.chunk.js": "/dalbrechtmartin/portfolioFR/tree/gh-pages/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/dalbrechtmartin/portfolioFR/tree/gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dalbrechtmartin/portfolioFR/tree/gh-pages/index.html",
-    "main.073c9b0a.css.map": "/dalbrechtmartin/portfolioFR/tree/gh-pages/static/css/main.073c9b0a.css.map",
-    "main.a7d1e226.js.map": "/dalbrechtmartin/portfolioFR/tree/gh-pages/static/js/main.a7d1e226.js.map",
-    "787.1ed0c42c.chunk.js.map": "/dalbrechtmartin/portfolioFR/tree/gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/dalbrechtmartin/portfolioFR/static/css/main.073c9b0a.css",
+    "main.js": "/dalbrechtmartin/portfolioFR/static/js/main.a368fbbe.js",
+    "static/js/787.1ed0c42c.chunk.js": "/dalbrechtmartin/portfolioFR/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/dalbrechtmartin/portfolioFR/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dalbrechtmartin/portfolioFR/index.html",
+    "main.073c9b0a.css.map": "/dalbrechtmartin/portfolioFR/static/css/main.073c9b0a.css.map",
+    "main.a368fbbe.js.map": "/dalbrechtmartin/portfolioFR/static/js/main.a368fbbe.js.map",
+    "787.1ed0c42c.chunk.js.map": "/dalbrechtmartin/portfolioFR/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a7d1e226.js"
+    "static/js/main.a368fbbe.js"
   ]
 }
