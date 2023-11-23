@@ -7,20 +7,28 @@ import {
 const App = () => {
   return (
     <BrowserRouter>
+      {/* CONTAINER */}
       <div id='container' className='relative z-0 bg-primary'>
-        <div id='hero' className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
+        
+        {/* NAVBAR CONTAINER */}
+        <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
           <Navbar />
           <Hero />
-        </div> {/* .hero */}
+        </div>
+
         <About />
         <Experience />
         <Tech />
         <Works />
-        <div id='contact' className='relative z-0'>
+
+        {/* CONTACT CONTAINER */}
+        <div className='relative z-0'>
           <Contact />
           <StarsCanvas />
-        </div> {/* .contact */}
-      </div> {/* .container */}
+        </div>
+
+      </div>
+      {/* END OF CONTAINER */}
     </BrowserRouter>
   )
 }
