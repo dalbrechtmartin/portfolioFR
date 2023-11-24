@@ -25,8 +25,8 @@ const Navbar = () => {
             alt="logo"
             className='w-9 h-9 object-contain'
           />
-          <p className='text-white text-[18px] font-bold cursor-pointer'>Danaé
-            <span className='sm:block hidden'>| Développeuse</span>
+          <p className='text-white text-[18px] font-bold cursor-pointer flex'> Danaé &nbsp;
+            <span className='sm:block hidden'> |&nbsp; Développeuse</span>
           </p>
         </Link>
         {/* Links */}
@@ -67,9 +67,12 @@ const Navbar = () => {
                     active === Link.title 
                     ? "text-white" 
                     : "text-secondary"
-                    } hover:text-white text-[18px] 
-                    font-medium cursor-pointer`}
-                    onClick={() => setActive(Link.title)}
+                    } hover:text-white text-[16px] 
+                    font-poppins font-medium cursor-pointer`}
+                    onClick={() => {
+                      setToggle(!toggle);
+                      setActive(Link.title);
+                    }}
                 >
                   {/* TODO: https://youtu.be/0fYi8SGA20k?si=tTyEo5ptr9x0ZXZn&t=2270 */}
                   <a href={`#${Link.id}`}>{Link.title}</a>
