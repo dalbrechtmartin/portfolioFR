@@ -4,6 +4,8 @@ import { motion } from 'framer-motion';
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
 
+{/*https://youtu.be/0fYi8SGA20k?si=F5T2D7INFap9OMtf&t=3702*/}
+
 const Hero = () => {
   return (
     <section className="relative w-full h-screen mx-auto">
@@ -26,6 +28,14 @@ const Hero = () => {
       </div>
 
       <ComputersCanvas />
+
+      <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
+        <a href="#about">
+          <div className="">
+
+          </div>
+        </a>
+      </div>
     </section>
   )
 }

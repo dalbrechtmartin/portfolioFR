@@ -9,7 +9,7 @@ const Computers = () => {
 
   return (
     <mesh>
-      <hemisphereLight intensity={0.15} 
+      <hemisphereLight intensity={3} 
       groundColor="black" />
       <pointLight intensity={1} />
       <spotLight 
@@ -29,8 +29,6 @@ const Computers = () => {
     </mesh>
   )
 }
-
-{/* https://youtu.be/0fYi8SGA20k?si=C_g7PndSNsJqhXny&t=3408 */}
 
 const ComputersCanvas = () => {
   return (
